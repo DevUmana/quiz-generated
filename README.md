@@ -1,4 +1,4 @@
-# Quiz Generated
+# Quiz Generator
 
 ## Description
 
@@ -24,7 +24,7 @@
 
 ## Usage
 
-- Application Walkthrough [BookScout Walkthrough](https://drive.google.com/file/d/1OaUDso3inQZ9dMy7BVSpQ-mAYwK3CCnh/view)
+- Application Walkthrough [Quiz Generator Walkthrough](https://drive.google.com/file/d/1OaUDso3inQZ9dMy7BVSpQ-mAYwK3CCnh/view)
 
 <img width="1665" alt="Screenshot 2024-11-14 at 11 58 42 PM" src="https://github.com/user-attachments/assets/230e6850-6f87-4a53-9892-dc195810d5b0">
 
