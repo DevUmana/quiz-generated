@@ -2,7 +2,7 @@
 
 ## Description
 
-**Quiz Generated** is a dynamic web application designed to create engaging 10-question quizzes on programming topics. This application is perfect for learners, educators, or coding enthusiasts looking to test and enhance their knowledge interactively.
+**Quiz Generator** is a dynamic web application designed to create engaging 10-question quizzes on programming topics. This application is perfect for learners, educators, or coding enthusiasts looking to test and enhance their knowledge interactively.
 
 [![MIT license](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
